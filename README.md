@@ -1,2 +1,2 @@
 # Adventure_game
-Python interactinf simple story game
+A Python interactive simple story game
